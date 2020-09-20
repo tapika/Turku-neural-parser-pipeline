@@ -3,7 +3,7 @@
 	url = https://github.com/tapika/Parser-v2
 [submodule "universal-lemmatizer"]
 	path = universal-lemmatizer
-	url = https://github.com/jmnybl/universal-lemmatizer.git
+	url = https://github.com/tapika/universal-lemmatizer
 [submodule "tokenizer"]
 	path = tokenizer
 	url = https://github.com/tapika/tokenizer
